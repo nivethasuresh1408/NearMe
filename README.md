@@ -121,7 +121,7 @@ lr.html
 </html>
 ```
 ## OUTPUT
-![alt text](<Screenshot 2024-03-22 111254-1.png>) ![alt text](<Screenshot 2024-03-22 110130-1.png>) ![alt text](<Screenshot 2024-03-22 110544-1.png>) ![alt text](<Screenshot 2024-03-22 110649.png>) ![alt text](<Screenshot 2024-03-22 111134-1.png>) ![alt text](<Screenshot 2024-03-22 111156-1.png>)
+![alt text](<Screenshot 2024-03-22 110130-1.png>)![alt text](<Screenshot 2024-03-22 111254-1.png>)  ![alt text](<Screenshot 2024-03-22 110544-1.png>) ![alt text](<Screenshot 2024-03-22 110649.png>) ![alt text](<Screenshot 2024-03-22 111134-1.png>) ![alt text](<Screenshot 2024-03-22 111156-1.png>)
 
 
 
